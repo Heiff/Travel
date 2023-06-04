@@ -1,0 +1,32 @@
+[
+  {
+    "name": "dubai",
+    "price": "700",
+    "date": "10.06.2023",
+    "duration": "5"
+  },
+  {
+    "name": "tailand",
+    "price": "790",
+    "date": "13.06.2023",
+    "duration": "7"
+  },
+  {
+    "name": "shvetsiya",
+    "price": "1200",
+    "date": "19.06.2023",
+    "duration": "5"
+  },
+  {
+    "name": "shvetsariya",
+    "price": "700",
+    "date": "14.06.2023",
+    "duration": "4"
+  },
+  {
+    "name": "mexico",
+    "price": "700",
+    "date": "16.06.2023",
+    "duration": "7"
+  }
+]
